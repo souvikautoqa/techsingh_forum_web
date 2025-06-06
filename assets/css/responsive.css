@@ -1,0 +1,1106 @@
+@media (max-width: 320.95px) {
+
+    .hero-content h1 {
+        font-size: 24px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 25px;
+        font-size: 24px;
+    }
+
+    .banner-content p {
+        margin-bottom: 25px;
+    }
+
+    .buttons-group {
+        margin-bottom: 25px;
+    }
+}
+
+@media (min-width: 321px) and (max-width: 413.95px) {
+
+    .hero-content h1 {
+        font-size: 28px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 25px;
+        font-size: 28px;
+    }
+
+    .banner-content p {
+        margin-bottom: 25px;
+    }
+
+    .buttons-group {
+        margin-bottom: 25px;
+    }
+}
+
+@media (min-width: 414px) and (max-width: 479.95px) {
+
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 25px;
+        font-size: 30px;
+    }
+
+    .banner-content p {
+        margin-bottom: 25px;
+    }
+
+    .buttons-group {
+        margin-bottom: 25px;
+    }
+}
+
+
+
+@media (min-width: 480px) and (max-width: 767.95px) {
+
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 25px;
+        font-size: 36px;
+    }
+
+    .banner-content p {
+        margin-bottom: 25px;
+    }
+
+    .buttons-group {
+        margin-bottom: 25px;
+    }
+}
+
+@media (max-width: 767.95px) {
+
+    .hero-content h1 {
+        font-size: 36px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 28px;
+        font-size: 36px;
+    }
+
+    .banner-content p {
+        margin-bottom: 28px;
+    }
+
+    .buttons-group {
+        margin-bottom: 28px;
+    }
+
+
+    /* --- Single Job Post Page CSS --- */
+
+
+
+    .outer-main-wrapper .forum-main-sec .discussions h3,
+    .outer-main-wrapper .forum-main-sec .discussions h4,
+    .outer-main-wrapper .forum-main-sec .discussions h3,
+    .outer-main-wrapper .forum-main-sec .discussions h5,
+    .outer-main-wrapper .forum-main-sec .discussions h3,
+    .outer-main-wrapper .forum-main-sec .discussions h6 {
+        font-size: 1.125rem;
+        line-height: 1.25 !important;
+    }
+
+
+    .outer-main-wrapper .forum-main-sec .discussions p {
+        font-size: 15px;
+        line-height: 1.5 !important;
+        font-family: "poppins", sans-serif;
+    }
+
+    .outer-main-wrapper .forum-main-sec .discussions h3,
+    .outer-main-wrapper .forum-main-sec .discussions h3 span {
+        font-size: 1.4rem;
+    }
+
+
+    /* --- Single Job Post Page CSS --- */
+
+}
+
+
+
+
+/* ---- CSS Moved from Left Sidebar ---- */
+
+@media (max-width: 767px) {
+    .sidemenu-sidebar {
+        width: 60px;
+    }
+
+    .sidemenu-sidebar a {
+        justify-content: center;
+        padding: 10px 0;
+    }
+
+    .sidemenu-sidebar a span {
+        display: none;
+    }
+
+    .main-sidebar {
+        display: none;
+    }
+
+    .outer-main-wrapper .sidebar-wrapper {
+        width: unset;
+    }
+
+    .outer-main-wrapper .forum-main-sec {
+        width: 100%;
+    }
+}
+
+
+
+/* ---- CSS Moved from Left Sidebar ---- */
+
+
+
+
+@media (min-width: 769px) and (max-width: 991.95px) {
+
+    .hero-content h1 {
+        font-size: 40px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 28px;
+        font-size: 40px;
+    }
+
+    .banner-content p {
+        margin-bottom: 28px;
+    }
+
+    .buttons-group {
+        margin-bottom: 28px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.95px) {
+
+    .hero-content h1 {
+        font-size: 45px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 28px;
+        font-size: 45px;
+    }
+
+    .banner-content p {
+        margin-bottom: 35px;
+    }
+
+    .buttons-group {
+        margin-bottom: 35px;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .offcanvas-body .btn {
+        background-color: #0d7751;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+
+    /* -----------------------------------
+       Hero Section Styling
+    ----------------------------------- */
+    section.vine-hero-2 {
+        margin: 117px 16px 0 122px;
+        padding-block: 4.5rem;
+        border-radius: 10px;
+    }
+
+    /* -----------------------------------
+       Navbar Styling
+    ----------------------------------- */
+    .vine-navbar {
+        left: 100px;
+        z-index: 1;
+    }
+
+    /* -----------------------------------
+       Search Header Form
+    ----------------------------------- */
+    .custom-search-form-header.search-container {
+        position: relative;
+        width: 50px;
+        height: 50px;
+        vertical-align: bottom;
+    }
+
+    .custom-search-form-header .searchbutton {
+        width: 100%;
+        height: 100%;
+        background: transparent;
+        border: none;
+        font-size: 22px;
+        line-height: 50px;
+        text-align: center;
+        color: black;
+        cursor: pointer;
+        border-radius: 0.25rem;
+    }
+
+    .custom-search-form-header .searchbutton:hover {
+        background-color: white;
+        color: black;
+        transition: 0.4s;
+    }
+
+    .custom-search-form-header .search {
+        position: absolute;
+        right: 49px;
+        width: 0;
+        height: 100%;
+        background-color: white;
+        border: none;
+        outline: none;
+        padding: 0;
+        z-index: 10;
+        transition: width 0.4s ease;
+        border-radius: 0.25rem;
+    }
+
+    .custom-search-form-header .search:focus {
+        width: 250px;
+        padding-left: 16px;
+    }
+
+    /* Section Header */
+    .section-header {
+        padding-block: 14px;
+        border-radius: 18px 18px 0 0;
+    }
+
+
+
+    /* -----------------------------------
+       Main Sidebar
+    ----------------------------------- */
+    .main-sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 9999;
+    }
+
+    /* -----------------------------------
+       Sidemenu Content Positioning
+    ----------------------------------- */
+    .sidemenu-content {
+        height: auto;
+        left: 100px;
+    }
+
+    .sidemenu-content#menu-item-14 {
+        top: 4.5rem;
+    }
+
+    .sidemenu-content#menu-item-13 {
+        top: 8rem;
+    }
+
+    .sidemenu-content#menu-item-12 {
+        top: 16rem;
+    }
+
+    .sidemenu-content#menu-item-7 {
+        top: 20rem;
+    }
+
+    .sidemenu-content#menu-item-4 {
+        top: 25rem;
+    }
+
+    .sidemenu-content#menu-item-1 {
+        top: 30.75rem;
+    }
+
+    /* -----------------------------------
+       Submenu Styles
+    ----------------------------------- */
+    .custom-sidemenu-sidebar .menu-item-wrapper {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        transition: all ease-in-out .3s;
+    }
+
+    /* .custom-sidemenu-sidebar .submenu {
+        position: absolute;
+        top: 101px;
+        left: 100px;
+        width: 200px;
+        height: calc(90vh - 24px);
+        padding: 20px;
+        margin-left: 10px;
+        background-color: #fff;
+        border-radius: 10px;
+        z-index: 1111;
+        box-shadow:
+            rgba(255, 255, 255, 0.2) 0px 0px 0px 1px inset,
+            rgba(1, 116, 39, 0.9) 0px 0px 0px 1px,
+            0 2px 7px 0px #00000005;
+        overflow-y: auto;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(10px);
+        transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+    } */
+    .custom-sidemenu-sidebar .submenu {
+        position: absolute;
+        top: 101px;
+        left: 100px;
+        width: 200px;
+        height: calc(90vh - 24px);
+        padding: 19px 14px;
+        margin-left: 10px;
+        background-color: #fff;
+        border-radius: 10px;
+        z-index: 1111;
+        box-shadow: -1px -6px 7px 0px #00000005;
+        overflow-y: auto;
+        opacity: 0;
+        visibility: hidden;
+        transform: translateY(10px);
+        transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+    }
+
+    .menu-item-wrapper:hover .submenu {
+        opacity: 1;
+        visibility: visible;
+        transform: translateY(0);
+    }
+
+    /* .custom-sidemenu-sidebar .submenu li {
+        position: relative;
+        padding: 0 12px;
+        border-radius: 16px;
+        margin-bottom: 0.75rem;
+        font-size: 14px;
+        line-height: 20px;
+        transition: all ease-in-out .3s;
+    } */
+
+    .custom-sidemenu-sidebar .submenu li {
+        position: relative;
+        line-height: 20px;
+        color: #0f0f0f !important;
+        font-family: 'Poppins', sans-serif !important;
+        font-size: 12px;
+        width: 100%;
+        font-weight: 400 !important;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        min-height: 32px;
+        padding: 10px 14px;
+        border-radius: 20px;
+        /* margin-bottom: 9px; */
+        transition: all ease-in-out .3s;
+    }
+
+
+    .custom-sidemenu-sidebar .submenu li:last-child {
+        margin-bottom: 0;
+    }
+
+    .custom-sidemenu-sidebar .submenu li:hover {
+        background-color: #ecf9f494;
+    }
+
+    /* .custom-sidemenu-sidebar .submenu li::before {
+        content: '•';
+        font-size: 32px;
+        color: #888;
+        position: absolute;
+        top: -2px;
+        left: 0;
+        margin: 0;
+        width: 1em;
+    } */
+
+    .custom-sidemenu-sidebar .submenu li::before {
+        content: '•';
+        font-size: 32px;
+        color: var(--green-color);
+        position: relative;
+        top: 0.25px;
+    }
+
+    .custom-sidemenu-sidebar .submenu li a {
+        display: inline-block;
+        font-size: 14px;
+        font-weight: 500;
+        color: var(--link-color);
+        text-decoration: none;
+        padding: 0;
+        background-color: transparent;
+        border: none;
+        text-align: left;
+        transition: all ease-in-out .3s;
+    }
+
+    .custom-sidemenu-sidebar .submenu li a:hover {
+        color: var(--link-hover);
+        color: #000;
+    }
+
+    .custom-sidemenu-sidebar .submenu li:hover::before {
+        color: #000;
+    }
+
+    .sidemenu-sidebar .parent-menu {
+        position: relative;
+    }
+
+    .custom-sidemenu-sidebar .parent-menu::after {
+        content: "";
+        position: absolute;
+        background-image: url("/assets/img/svg/carret.svg");
+        background-repeat: no-repeat;
+        top: 20px;
+        right: -38px;
+        display: block;
+        width: 30px;
+        height: 30px;
+        filter: drop-shadow(0 2px 7px 0px #00000005);
+        color: rgb(0 0 0 / 25%);
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s ease;
+    }
+
+    .custom-sidemenu-sidebar .menu-item-wrapper.menu-item-3 a::after {
+        display: none;
+    }
+
+    .menu-item-wrapper:hover .parent-menu::after {
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .sidemenu-sidebar a i {
+        margin-right: 0px;
+        font-size: 16px;
+        margin-bottom: 3px;
+        width: 38px;
+        height: 38px;
+        border-radius: 50% !important;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #fff;
+        transition: all ease-in-out .3s;
+    }
+
+    /* 
+.sidemenu-sidebar a:hover i {
+    background-color: #ecf9f494;
+    border-radius: 20px;
+    color: #0d7751;
+} */
+    .menu-item-wrapper:hover i {
+        background-color: #0d7751;
+        border-radius: 20px;
+        color: #fff;
+    }
+
+    .sidemenu-sidebar a:hover {
+        background-color: transparent;
+        border-radius: 0;
+    }
+
+    /* --- New revisions --- */
+    .sidemenu-sidebar {
+        gap: 7px;
+    }
+
+    .custom-sidemenu-sidebar .menu-item-wrapper a {
+        padding: 0;
+        margin: 0;
+        padding-bottom: 20px;
+    }
+
+    .custom-sidemenu-sidebar .menu-item-wrapper.menu-item-3 {
+        padding-top: 14px;
+    }
+
+    .container-user {
+        background-color: transparent;
+        box-shadow: none;
+        gap: 12px;
+        padding-inline: 0;
+    }
+
+    .section-user {
+        background-color: #fff;
+        border: none;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+
+    .members-stats-container {
+        margin-inline: 10px;
+        gap: 32px;
+        padding-bottom: 10px;
+    }
+
+
+
+    /* --- New revisions --- */
+
+    /* -----------------------------------
+       Sidemenu Sidebar Icon
+    ----------------------------------- */
+    .sidemenu-sidebar .sidemenu-menu-icon {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        padding-top: 10px;
+        padding-bottom: 35px;
+        margin-top: 1rem;
+        margin-bottom: 7px;
+        border-bottom: 1px solid #e6e6e6;
+    }
+
+    /* -----------------------------------
+    Middle Content (Updated May 2025)
+    ----------------------------------- */
+
+
+    .main-col-3 {
+        max-width: 380px;
+    }
+
+    .main-col-9 {
+        width: calc(100% - 380px);
+    }
+
+
+
+
+
+    .homesections .stats div {
+        font-size: 15px;
+    }
+
+    .header-home {
+        border-radius: 20px 20px 0 0;
+    }
+
+    .header-home h1 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .container-home .homesections {
+        background-color: #ffffff;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .container-home .homesections:nth-child(even) {
+        background-color: #ecf9f494;
+    }
+
+    .outer-main-wrapper .forum-main-sec .homesections * {
+        color: #000;
+    }
+
+    .homesections h2 {
+        margin: 0;
+    }
+
+    .homesections h2 a {
+        font-family: 'Poppins', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .post-user .title {
+        font-size: 16px;
+        line-height: 23px !important;
+        margin-bottom: 4px !important;
+    }
+
+    .item-user .rounded-circle {
+        width: 48px !important;
+        height: 48px !important;
+        font-size: 20px;
+        font-weight: 500 !important;
+        background-color: #0d7751 !important;
+    }
+
+    .item-user {
+        gap: 12px;
+        margin-bottom: 24px;
+    }
+
+    .item-user .details .name a {
+        font-weight: 600;
+        font-family: var(--font-poppins);
+        color: #0d7751;
+    }
+
+    /* --- Updated CSS as per new Feedbacks May 2025 ---- */
+
+    /* -----------------------------------
+       Right Sidebar
+    ----------------------------------- */
+    .announcement-content p {
+        text-align: left !important;
+        font-size: 15px;
+    }
+
+    .homesections .stats {
+        margin-top: 0 !important;
+    }
+
+    .homesections .stats a {
+        font-size: 15px;
+    }
+
+    .homesections .stats div {
+        font-size: 14px !important;
+    }
+
+    .toolkit-icon p {
+        font-size: 16px !important;
+    }
+
+    .toolkit-icon i {
+        width: 36px;
+        height: 36px;
+        font-size: 15px;
+    }
+
+    .toolkit-icon p {
+        font-size: 13px !important;
+    }
+
+    .toolkit-icons {
+        padding: 0;
+        height: 90px;
+        display: flex;
+        align-items: center;
+        padding: 12px;
+        gap: 4px;
+    }
+
+    .toolkit-icons a {
+        display: flex;
+        align-items: center;
+        gap: 12px;
+        padding: 8px;
+        transition: all .2s linear;
+    }
+
+    .toolkit-icons a:hover {
+        transform: scale(1.055);
+        transition: all .2s linear;
+        box-shadow: 0 0 16px 0 rgba(0, 0, 0, .25);
+        border-radius: 10px;
+    }
+
+    .toolkit-icon a p {
+        line-height: 1.2;
+        text-align: left;
+        font-weight: 600;
+        font-family: var(--font-poppins);
+    }
+
+    .members-stat-box p {
+        font-size: 40px;
+        font-weight: 600;
+        font-family: var(--font-poppins);
+        color: #0d7751;
+    }
+
+    .section-user h2 {
+        color: #000;
+        margin-bottom: 1.5rem;
+    }
+
+    .post-user:first-of-type .title {
+        margin-top: 0;
+    }
+
+
+    /* repeated 1025px */
+
+    /* --- Updated CSS as per new Feedbacks May 2025 ---- */
+
+    .toolkit-icon p {
+        font-size: 16px;
+    }
+
+    .homesections h2 {
+        font-size: 18px;
+        margin-bottom: 0;
+        font-weight: 400 !important;
+    }
+
+    .outer-main-wrapper .forum-main-sec .homesections {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding-block: 19px;
+        padding-inline: 20px;
+    }
+
+    .homesections .stats {
+        margin-top: 0;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+        gap: 110px;
+    }
+
+    .homesections .stats div {
+        font-size: 15px;
+    }
+
+    .header-home {
+        border-radius: 20px 20px 0 0;
+    }
+
+    .header-home h1 {
+        font-size: 20px;
+        font-weight: 600;
+    }
+
+    .container-home .homesections {
+        background-color: #ffffff;
+        margin: 0;
+        border-radius: 0;
+    }
+
+    .container-home .homesections:nth-child(even) {
+        background-color: #ecf9f494;
+    }
+
+    .outer-main-wrapper .forum-main-sec .homesections * {
+        color: #000;
+    }
+
+    .homesections h2 a {
+        font-weight: 500;
+    }
+
+    /* --- Page Details --- */
+    .common-page-wrapper .outer-main-wrapper .forum-main-sec .discussions {
+        padding-inline: 0;
+        padding-top: 6px;
+    }
+
+    .outer-main-wrapper .forum-main-sec .discussions .post-box {
+        margin-inline: 0 !important;
+    }
+
+    .post-box:hover {
+        box-shadow: none;
+    }
+
+    /* --- Page Details --- */
+    /* --- End of Updated CSS --- */
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+.container-fluid.job-post-single-wrapper .row {
+    justify-content: unset;
+}
+
+.main-col-9 {
+    flex: 0 0 auto;
+    width: 70%;
+    padding-right: 20px;
+}
+
+.main-col-3 {
+    flex: 0 0 auto;
+    width: 30%;
+    padding-inline: 0;
+    padding-right: 15px;
+}
+
+.outer-main-wrapper {
+    justify-content: unset;
+}
+
+.section-user {
+    margin: 0;
+}
+
+.container-user {
+    padding-top: 0;
+}
+
+
+.toolkit-icon a {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+    text-align: center;
+}
+
+.toolkit-icon a p {
+    text-align: center;
+}
+
+}
+
+@media (min-width: 581px) and (max-width: 768px) {
+    .main-col-3 {
+        max-width: 320px;
+    }
+
+    .main-col-9 {
+        width: calc(100% - 320px);
+    }
+
+    .toolkit-icons a {
+        flex-direction: column;
+        gap: 4px;
+    }
+
+    .toolkit-icons {
+        justify-content: space-between;
+    }
+
+    .outer-main-wrapper .forum-main-sec .homesections {
+        flex-direction: column;
+        align-items: start !important;
+        gap: 14px;
+    }
+
+    .outer-main-wrapper .forum-main-sec .homesections .topics-left-nd-questions .new-posts-left a {
+        line-height: 1.25;
+    }
+
+    .announcement-content p {
+        line-height: 20px;
+        font-size: 13px;
+    }
+
+    .outer-main-wrapper .forum-main-sec .homesections h2 a,
+    .outer-main-wrapper .forum-main-sec .homesections .new-posts-right .title a {
+        font-size: 14px !important;
+    }
+
+    .header-home h1 {
+        text-align: left;
+        font-size: 18px;
+        line-height: 1.25;
+    }
+
+    .post-user .title {
+        line-height: 20px !important;
+    }
+
+    .hero-content h1 {
+        font-size: 32px;
+    }
+
+    .hero-content p {
+        font-size: 16px;
+        line-height: 1.25;
+        font-weight: 500;
+    }
+
+    .vine-join * {
+        flex: 0 0 auto;
+    }
+
+    .vine-join {
+        flex-wrap: wrap;
+        gap: 10px 20px;
+    }
+
+    section.vine-hero-2 {
+        padding-block: 20px !important;
+    }
+
+    section.vine-hero-2 .hero-content {
+        padding-block: 20px;
+    }
+
+}
+
+@media (min-width: 1200px) and (max-width: 1399.95px) {
+
+    .hero-content h1 {
+        font-size: 50px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 35px;
+        font-size: 50px;
+    }
+
+    .banner-content p {
+        margin-bottom: 35px;
+    }
+
+    .buttons-group {
+        margin-bottom: 35px;
+    }
+}
+
+@media (min-width: 1200px) and (max-width: 1600px) {
+    .new-nav-top ul .nav-item a {
+        font-size: 14px;
+    }
+
+    .custom-sidemenu-sidebar .menu-item-wrapper a {
+        font-size: 12px;
+    }
+
+    .sidemenu-sidebar a i {
+        font-size: 12px;
+        width: 24px;
+        height: 24px;
+    }
+
+    .custom-sidemenu-sidebar .submenu li a {
+        font-size: 13px;
+    }
+
+    .custom-sidemenu-sidebar .submenu li {
+        padding: 6px 14px;
+        margin-bottom: 4px;
+    }
+}
+
+@media (min-width:1400px) {
+
+    .hero-content h1 {
+        font-size: 50px;
+    }
+
+    .banner-content h1 {
+        margin-bottom: 60px;
+        font-size: 60px;
+    }
+
+    .banner-content p {
+        margin-bottom: 60px;
+    }
+
+    .buttons-group {
+        margin-bottom: 60px;
+    }
+}
+
+
+@media only screen and (max-width: 580px) {
+
+    .homesections {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .outer-main-wrapper .forum-main-sec .homesections h2 a,
+    .outer-main-wrapper .forum-main-sec .homesections .new-posts-right .title a {
+        font-size: 16px;
+        line-height: 1;
+    }
+
+    .homesections h2 {
+        line-height: 20px;
+    }
+
+    .post-user .title {
+        line-height: 1.25;
+        margin-bottom: 10px;
+        font-size: 1rem;
+    }
+
+    .header-home h1 {
+        font-size: 20px;
+        text-align: left;
+    }
+
+    .header-home {
+        align-items: start;
+    }
+
+    .header-home i {
+        padding-top: 9px;
+    }
+
+    .hero-content p {
+        font-size: 16px;
+        line-height: 1.5;
+        margin-bottom: 1rem;
+    }
+
+    .hero-content {
+        padding-inline: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+    }
+
+    .vine-join {
+        gap: 20px;
+    }
+    .homesections .stats div {
+        font-size: 16px;
+    }
+    
+    .main-col-3 {
+        margin-top: 2rem;
+    }
+    .toolkit-icon i {
+        width: 40px;
+        height: 40px;
+        font-size: 18px;
+    }
+    .section-header {
+        justify-content: start;
+        padding-left: 16px;
+    }
+    
+    .announcement-content,
+    .announcement-content p {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .footer-left p {
+        font-size: .875rem;
+        font-weight: 500;
+    }
+
+    .footer p {
+        font-size: 16px;
+        font-weight: 500;
+    }
+
+    .footer-right a {
+        font-weight: 500;
+    }
+
+}
