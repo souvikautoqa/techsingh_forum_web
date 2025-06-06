@@ -28,7 +28,19 @@ $autoload['drivers'] = array();
 |  Auto-load Helper Files
 | -------------------------------------------------------------------
 */
-$autoload['helper'] = array('url', 'form');
+$autoload['helper'] = array(
+  'url',
+  'form',
+  'file',
+  'date',
+  'navigation',
+  'avatar',
+  'announcement',
+  'video',
+  'sidebarpost',
+  'ads',
+
+);
 
 /*
 | -------------------------------------------------------------------
