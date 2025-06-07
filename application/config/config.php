@@ -6,7 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  *   Make sure to include the trailing slash exactly as you browse.
  *   If you still use port 8080, include “:8080” here.
  */
-$config['base_url'] = getenv('BASE_URL') ?: 'http://156.67.104.18:8080/';
+$config['base_url'] = getenv('BASE_URL') ?: 'https://dev-forum.techsingh123.com/';
 
 /**
  * Index file

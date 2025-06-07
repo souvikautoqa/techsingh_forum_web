@@ -39,6 +39,7 @@ $autoload['helper'] = array(
   'video',
   'sidebarpost',
   'ads',
+  'comment'
 
 );
 
